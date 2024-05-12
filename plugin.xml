@@ -20,7 +20,6 @@
     <source-file src="src/android/ZplImagePrinter.java" target-dir="src/cordova-zebra-plugin/ZebraPlugin"/>
     <source-file src="src/android/USBPrinter.java" target-dir="src/cordova-zebra-plugin/ZebraPlugin"/>
 
-    <resource-file src="src/android/libs/commons-io-2.2.jar" target="../../libs/commons-io-2.2.jar"/>
     <resource-file src="src/android/libs/commons-lang3-3.4.jar" target="../../libs/commons-lang3-3.4.jar"/>
     <resource-file src="src/android/libs/commons-net-3.1.jar" target="../../libs/commons-net-3.1.jar"/>
     <resource-file src="src/android/libs/commons-validator-1.4.0.jar" target="../../libs/commons-validator-1.4.0.jar"/>
